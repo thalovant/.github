@@ -22,8 +22,6 @@ Place this file at: .github/profile/README.md
   <a href="https://thalovant.com">Website</a>
   ·
   <a href="https://docs.thalovant.com">Docs</a>
-  ·
-  <a href="https://github.com/Thalovant">GitHub</a>
 </p>
 
 ---
