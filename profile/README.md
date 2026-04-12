@@ -14,53 +14,51 @@ Place this file at: .github/profile/README.md
 <h1 align="center">Thalovant</h1>
 
 <p align="center">
-  <strong>The enterprise hub for connected intelligence.</strong><br>
-  Connect clients, skills, models, and agents through <em>one calm, intelligent control plane</em>.
+  <strong>Connected intelligence, with operational control.</strong><br>
+  Thalovant helps teams run clients, skills, models, and agents through <em>one governed control plane</em>.
 </p>
 
 <p align="center">
-  <a href="https://thalovant.com">Website</a>
+  <a href="https://thalovant.com"><strong>Website</strong></a>
   ·
-  <a href="https://docs.thalovant.com">Docs</a>
+  <a href="https://docs.thalovant.com"><strong>Docs</strong></a>
+  ·
+  <a href="https://github.com/thalovant"><strong>Browse repos</strong></a>
 </p>
 
 ---
 
-## What is Thalovant?
+## What Thalovant does
 
-Thalovant is a multi-interface orchestration layer built to make complex AI and runtime systems feel **clear, governable, and usable**.
+- 🔌 Connect voice, chat, apps, and services to one hub
+- 🧠 Route execution across skills, models, tools, and agents
+- 🛡️ Govern access, topology, and runtime behavior from one control plane
+- 📈 Operate with the visibility and structure enterprise teams expect
 
-It gives teams one hub to:
-- 🔌 connect voice, chat, apps, and other clients
-- 🧠 route requests across skills, LLMs, agents, and runtime services
-- 🛡️ manage hubs, clients, ACLs, and topology from one control plane
-- 📈 deploy with the governance, observability, and operational clarity enterprise environments require
+## Start here ✨
 
-## Why teams use Thalovant
+| Path | What you'll find |
+| --- | --- |
+| [Website](https://thalovant.com) | Product overview and company updates |
+| [Docs](https://docs.thalovant.com) | Technical documentation and implementation guides |
+| [Browse repos](https://github.com/thalovant) | Public repositories and profile assets available today |
 
-- **One hub, many interfaces** — unify voice, web, mobile, and service integrations
-- **Composable execution** — connect skills, models, tools, and agents without hard-wiring brittle flows
-- **Operational control** — manage access, routing, and topology centrally
-- **Enterprise-ready foundations** — built for secure deployments, governed access, and production workflows
-- **Easy to approach** — powerful underneath, but designed to feel understandable from day one
+## Why teams use it
 
-## Principles
+- **One hub, many interfaces** for voice, chat, services, and apps
+- **Composable orchestration** without hard-wired brittle flows
+- **Operational clarity** instead of scattered control surfaces
+- **Enterprise-ready foundations** for secure, governed deployments
 
-- 🤝 **Accessible by design** over needlessly opaque systems
-- 🔧 **Reusable capabilities** over one-off glue code
-- 🛰️ **Clear operational visibility** over black-box automation
-- 🏗️ **Strong control planes** over fragmented integrations
-- 🤫 **Quiet, reliable infrastructure** over noisy abstraction
+## In this organization
 
-## Status
+Thalovant is building infrastructure for teams that need AI systems to be *usable, governable, and calm under load*.
 
-Thalovant is actively evolving as an **enterprise-grade orchestration platform** for connected clients, skills, models, and agents.
-
-It is built for teams that want serious operational control without turning every integration into a science project.
+This organization is where we maintain the platform, operators, and supporting services behind that work. Some repositories are private while the platform evolves; public artifacts and more open components will appear here over time.
 
 ---
 
 <p align="center">
-  <strong>Built for teams that want one brain at the center of their stack.</strong><br>
-  <em>Professional by default. Friendly to use.</em>
+  <strong>Serious infrastructure. Easy to approach.</strong><br>
+  <em>Built for teams that want calm systems, not AI sprawl.</em>
 </p>
