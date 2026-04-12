@@ -4,7 +4,11 @@ Place this file at: .github/profile/README.md
 -->
 
 <p align="center">
-  <img src="assets/thalovant-logo-dark.svg" alt="Thalovant" width="420">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/thalovant-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/thalovant-logo-light.png">
+    <img src="assets/thalovant-logo-dark.png" alt="Thalovant" width="420">
+  </picture>
 </p>
 
 <h1 align="center">Thalovant</h1>
