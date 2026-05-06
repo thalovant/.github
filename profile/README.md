@@ -23,6 +23,8 @@ Place this file at: .github/profile/README.md
   ·
   <a href="https://docs.thalovant.com"><strong>Docs</strong></a>
   ·
+  <a href="https://discord.gg/FcAM8XCD"><strong>Discord</strong></a>
+  ·
   <a href="https://github.com/thalovant"><strong>Browse repos</strong></a>
 </p>
 
@@ -41,6 +43,7 @@ Place this file at: .github/profile/README.md
 | --- | --- |
 | [Website](https://thalovant.com) | Product overview and company updates |
 | [Docs](https://docs.thalovant.com) | Technical documentation and implementation guides |
+| [Discord](https://discord.gg/FcAM8XCD) | Community updates, support, and discussion |
 | [Browse repos](https://github.com/thalovant) | Public repositories and profile assets available today |
 
 ## Why teams use it
