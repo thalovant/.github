@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/thalovant/.github/blob/main/SECURITY.md
+    about: Please do not file vulnerabilities as issues. Email hello@thalovant.com instead.
+  - name: Ask a question or get help
+    url: https://docs.thalovant.com
+    about: Documentation first; the Discord is the place for questions.
