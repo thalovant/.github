@@ -1,67 +1,67 @@
 <!--
-GitHub Organization Profile README
-Place this file at: .github/profile/README.md
+GitHub organization profile: shown at https://github.com/thalovant.
+Last edit: Claude Sonnet 5.5 - 2026-10-02 - Motive: Align the profile with thalovant.com (Daily Desk, private workspaces), list what is actually public, and drop claims the product pages do not make.
 -->
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/thalovant-logo-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/thalovant-logo-light.png">
-    <img src="assets/thalovant-logo-dark.png" alt="Thalovant" width="420">
+    <img src="assets/thalovant-logo-dark.png" alt="Thalovant" width="380">
   </picture>
 </p>
 
-<h1 align="center">Thalovant</h1>
-
-<p align="center">
-  <strong>Connected intelligence, with operational control.</strong><br>
-  Thalovant helps teams run clients, skills, models, and agents through <em>one governed control plane</em>.
-</p>
+<h3 align="center">Assistants, agents and apps, through public hubs and private workspaces.</h3>
 
 <p align="center">
   <a href="https://thalovant.com"><strong>Website</strong></a>
-  ·
+  &nbsp;·&nbsp;
+  <a href="https://dash.thalovant.com/showroom"><strong>Try Daily Desk</strong></a>
+  &nbsp;·&nbsp;
   <a href="https://docs.thalovant.com"><strong>Docs</strong></a>
-  ·
+  &nbsp;·&nbsp;
   <a href="https://discord.gg/FcAM8XCD"><strong>Discord</strong></a>
-  ·
-  <a href="https://github.com/thalovant"><strong>Browse repos</strong></a>
 </p>
 
 ---
 
-## What Thalovant does
+Thalovant connects voice, web, API, agents, embedded devices and headless Linux
+to one hub. Start in public with [Daily Desk](https://dash.thalovant.com/showroom),
+no account needed and no personal memory stored. When it earns its place, move
+to a private workspace with memory, clients, private skills, analytics, API and
+MQTT.
 
-- 🔌 Connect voice, chat, apps, and services to one hub
-- 🧠 Route execution across skills, models, tools, and agents
-- 🛡️ Govern access, topology, and runtime behavior from one control plane
-- 📈 Operate with the visibility and structure enterprise teams expect
+Thalovant builds on [OpenVoiceOS](https://github.com/OpenVoiceOS) and
+[HiveMind](https://github.com/JarbasHiveMind), and keeps its forks of their
+components public.
 
-## Start here ✨
+## Build with Thalovant
 
-| Path | What you'll find |
+| I want to | Start here |
 | --- | --- |
-| [Website](https://thalovant.com) | Product overview and company updates |
-| [Docs](https://docs.thalovant.com) | Technical documentation and implementation guides |
-| [Discord](https://discord.gg/FcAM8XCD) | Community updates, support, and discussion |
-| [Browse repos](https://github.com/thalovant) | Public repositories and profile assets available today |
+| Talk to a hub from my own code | **SDKs:** [Python](https://github.com/thalovant/thalovant-python-sdk) · [Node.js / TypeScript](https://github.com/thalovant/thalovant-node-sdk) · [Go](https://github.com/thalovant/thalovant-go-sdk) · [Rust](https://github.com/thalovant/thalovant-rust-sdk) · [Swift](https://github.com/thalovant/thalovant-swift-sdk) · [Kotlin](https://github.com/thalovant/thalovant-kotlin-sdk) · [.NET](https://github.com/thalovant/thalovant-dotnet-sdk) |
+| Put a hub on a microcontroller or single-board computer | [thalovant-embedded-c](https://github.com/thalovant/thalovant-embedded-c): ESP32, Zephyr, Linux SBCs |
+| Let an AI agent run Thalovant | [thalovant-mcp](https://github.com/thalovant/thalovant-mcp): an MCP server for the control plane and hub runtime |
+| Control my home by voice | [ha-thalovant](https://github.com/thalovant/ha-thalovant): the Home Assistant integration, installed through HACS |
+| Write a skill | [thalovant-skillkit](https://github.com/thalovant/thalovant-skillkit) and the [skill guide](https://docs.thalovant.com/developers/writing-a-skill/) |
+| Download the voice satellite | [thalovant-downloads](https://github.com/thalovant/thalovant-downloads) and the [install guide](https://docs.thalovant.com/manage/install-thalovant-voice/) |
+| Add a language | [thalovant-languages](https://github.com/thalovant/thalovant-languages) |
 
-## Why teams use it
+## What is public, and what is not
 
-- **One hub, many interfaces** for voice, chat, services, and apps
-- **Composable orchestration** without hard-wired brittle flows
-- **Operational clarity** instead of scattered control surfaces
-- **Enterprise-ready foundations** for secure, governed deployments
+Public here: the SDKs, the MCP server, the Home Assistant integration, the skill
+kit, the language data, the downloads, and our forks of OpenVoiceOS and HiveMind
+components. Each carries its own licence (MIT, Apache-2.0, GPL-3.0 or AGPL-3.0,
+as the upstream project or the repository states).
 
-## In this organization
+Private for now: the control plane, the console, the operators, the runtime
+images and the hosted skills. They run [thalovant.com](https://thalovant.com),
+and what they do is documented at [docs.thalovant.com](https://docs.thalovant.com).
 
-Thalovant is building infrastructure for teams that need AI systems to be *usable, governable, and calm under load*.
+## Security and contact
 
-This organization is where we maintain the platform, operators, and supporting services behind that work. Some repositories are private while the platform evolves; public artifacts and more open components will appear here over time.
-
----
-
-<p align="center">
-  <strong>Serious infrastructure. Easy to approach.</strong><br>
-  <em>Built for teams that want calm systems, not AI sprawl.</em>
-</p>
+Report a suspected vulnerability privately to
+[hello@thalovant.com](mailto:hello@thalovant.com); the
+[security policy](https://github.com/thalovant/.github/blob/main/SECURITY.md)
+says what to include and what to expect. For anything else, write to the same
+address or join the [Discord](https://discord.gg/FcAM8XCD).
