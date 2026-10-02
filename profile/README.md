@@ -32,8 +32,8 @@ to a private workspace with memory, clients, private skills, analytics, API and
 MQTT.
 
 Thalovant builds on [OpenVoiceOS](https://github.com/OpenVoiceOS) and
-[HiveMind](https://github.com/JarbasHiveMind). We keep our changes to those
-projects in the open, in forks that say what they changed.
+[HiveMind](https://github.com/JarbasHiveMind), and keeps its forks of their
+components public.
 
 ## Build with Thalovant
 
