@@ -1,6 +1,6 @@
 <!--
 GitHub organization profile: shown at https://github.com/thalovant.
-Last edit: Claude Sonnet 5.5 - 2026-10-02 - Motive: Align the profile with thalovant.com (Daily Desk, private workspaces), list what is actually public, and drop claims the product pages do not make.
+Last edit: Codex (exact runtime model identifier unavailable) - 2026-10-15 - Motive: Align the introduction with the current voice-assistant homepage and distinguish browser-preview memory from connected devices.
 -->
 
 <p align="center">
@@ -11,7 +11,7 @@ Last edit: Claude Sonnet 5.5 - 2026-10-02 - Motive: Align the profile with thalo
   </picture>
 </p>
 
-<h3 align="center">Assistants, agents and apps, through public hubs and private workspaces.</h3>
+<h3 align="center">A voice assistant that answers from real sources.</h3>
 
 <p align="center">
   <a href="https://thalovant.com"><strong>Website</strong></a>
@@ -25,11 +25,14 @@ Last edit: Claude Sonnet 5.5 - 2026-10-02 - Motive: Align the profile with thalo
 
 ---
 
-Thalovant connects voice, web, API, agents, embedded devices and headless Linux
-to one hub. Start in public with [Daily Desk](https://dash.thalovant.com/showroom),
-no account needed and no personal memory stored. When it earns its place, move
-to a private workspace with memory, clients, private skills, analytics, API and
-MQTT.
+Thalovant answers from live weather, Wikipedia and the skills you add. Ask by
+voice or try [Daily Desk](https://dash.thalovant.com/showroom) in your browser,
+no account needed. The browser preview keeps no chat memory. Connected Daily
+Desk devices keep a short chat history that you can ask to forget.
+
+Connect voice, web, API, agents, embedded devices and headless Linux to one hub.
+Create a private workspace for memory, clients, private skills, analytics, API
+and MQTT.
 
 Thalovant builds on [OpenVoiceOS](https://github.com/OpenVoiceOS) and
 [HiveMind](https://github.com/JarbasHiveMind), and keeps its forks of their
