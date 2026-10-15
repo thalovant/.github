@@ -1,6 +1,6 @@
 <!--
 GitHub organization profile: shown at https://github.com/thalovant.
-Last edit: Codex (exact runtime model identifier unavailable) - 2026-10-15 - Motive: Align the introduction with the current voice-assistant homepage and distinguish browser-preview memory from connected devices.
+Last edit: Codex (exact runtime model identifier unavailable) - 2026-10-15 - Motive: Present the full platform for assistants, agents and apps, with voice as one interface.
 -->
 
 <p align="center">
@@ -11,7 +11,7 @@ Last edit: Codex (exact runtime model identifier unavailable) - 2026-10-15 - Mot
   </picture>
 </p>
 
-<h3 align="center">A voice assistant that answers from real sources.</h3>
+<h3 align="center">A platform for assistants, agents and apps.</h3>
 
 <p align="center">
   <a href="https://thalovant.com"><strong>Website</strong></a>
@@ -25,14 +25,19 @@ Last edit: Codex (exact runtime model identifier unavailable) - 2026-10-15 - Mot
 
 ---
 
-Thalovant answers from live weather, Wikipedia and the skills you add. Ask by
-voice or try [Daily Desk](https://dash.thalovant.com/showroom) in your browser,
-no account needed. The browser preview keeps no chat memory. Connected Daily
-Desk devices keep a short chat history that you can ask to forget.
+Thalovant connects skills, devices and services through public hubs and private
+workspaces. Build assistants, connect AI agents, or add hub capabilities to your
+own apps using SDKs and APIs. Voice is one interface alongside the web, API
+clients, embedded devices and headless Linux.
 
-Connect voice, web, API, agents, embedded devices and headless Linux to one hub.
-Create a private workspace for memory, clients, private skills, analytics, API
-and MQTT.
+Explore public hubs, or create a private workspace for memory, clients, private
+skills, access rules and analytics. Developers can write skills, connect agents
+through MCP and use MQTT where their hub and client support it.
+
+Try [Daily Desk](https://dash.thalovant.com/showroom) in your browser, no account
+needed, for answers from live weather, Wikipedia and available skills. The
+browser preview keeps no chat memory. Connected Daily Desk devices keep a short
+chat history that you can ask to forget.
 
 Thalovant builds on [OpenVoiceOS](https://github.com/OpenVoiceOS) and
 [HiveMind](https://github.com/JarbasHiveMind), and keeps its forks of their
