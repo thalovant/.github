@@ -1,8 +1,12 @@
+# Last Edit: Codex - 2026-11-07 - Motive: Separate product support and community destinations while preserving private security reporting.
 blank_issues_enabled: false
 contact_links:
   - name: Report a security vulnerability
     url: https://github.com/thalovant/.github/blob/main/SECURITY.md
     about: Please do not file vulnerabilities as issues. Email hello@thalovant.com instead.
-  - name: Ask a question or get help
-    url: https://docs.thalovant.com
-    about: Documentation first; the Discord is the place for questions.
+  - name: Get product help
+    url: https://docs.thalovant.com/account/get-support/
+    about: Start with the support guide for setup, troubleshooting and information to include when asking for help.
+  - name: Ask the community
+    url: https://discord.gg/ZRVMARguxC
+    about: Join the Thalovant Discord for questions, ideas and discussion.
