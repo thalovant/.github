@@ -1,4 +1,12 @@
-<!-- Last Edit: Codex - 2026-11-07 - Motive: Explain organization defaults and link the official product, documentation, video archive and community. -->
+<!-- Last Edit: Codex - 2026-11-07 - Motive: Add the approved theme-aware logo to the repository README. -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/assets/thalovant-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="profile/assets/thalovant-logo-light.png">
+    <img src="profile/assets/thalovant-logo-light.png" alt="Thalovant" width="320">
+  </picture>
+</p>
 
 # Thalovant on GitHub
 

@@ -1,13 +1,13 @@
 <!--
 GitHub organization profile: shown at https://github.com/thalovant.
-Last Edit: Codex - 2026-11-07 - Motive: Clarify developer entry points, add the video archive, and repair the community invitation.
+Last Edit: Codex - 2026-11-07 - Motive: Use a legible light-surface fallback for the approved theme-aware logo.
 -->
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/thalovant-logo-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/thalovant-logo-light.png">
-    <img src="assets/thalovant-logo-dark.png" alt="Thalovant" width="380">
+    <img src="assets/thalovant-logo-light.png" alt="Thalovant" width="380">
   </picture>
 </p>
 
