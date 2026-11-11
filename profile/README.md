@@ -1,17 +1,15 @@
 <!--
 GitHub organization profile: shown at https://github.com/thalovant.
-Last Edit: Codex - 2026-11-07 - Motive: Use a legible light-surface fallback for the approved theme-aware logo.
+Last Edit: Codex - 2026-11-11 - Motive: Use the latest approved social banner with the full tagline and maple leaf.
 -->
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/thalovant-logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/thalovant-logo-light.png">
-    <img src="assets/thalovant-logo-light.png" alt="Thalovant" width="380">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/thalovant-banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/thalovant-banner-light.png">
+    <img src="assets/thalovant-banner-light.png" alt="Thalovant — Assistants, agents and apps for custom workflows." width="808">
   </picture>
 </p>
-
-<h3 align="center">A platform for assistants, agents and apps.</h3>
 
 <p align="center">
   <a href="https://thalovant.com/"><strong>Website</strong></a>
