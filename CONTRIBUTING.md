@@ -1,5 +1,3 @@
-<!-- Last Edit: Codex - 2026-11-07 - Motive: Use repository-specific contribution branches and a verified community invitation. -->
-
 # Contributing to Thalovant
 
 Thanks for helping. This guide is the default for every public Thalovant
