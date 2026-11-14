@@ -1,6 +1,5 @@
 <!--
 GitHub organization profile: shown at https://github.com/thalovant.
-Last Edit: Codex - 2026-11-11 - Motive: Use the latest approved social banner with the full tagline and maple leaf.
 -->
 
 <p align="center">

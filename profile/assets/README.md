@@ -1,5 +1,3 @@
-<!-- Last Edit: Codex - 2026-11-07 - Motive: Document the shared theme-aware header for repository READMEs. -->
-
 # Thalovant profile branding
 
 These assets come from the approved Thalovant press-logo set. Use the blue brain

@@ -1,5 +1,3 @@
-<!-- Last Edit: Codex - 2026-11-07 - Motive: Add the approved theme-aware logo to the repository README. -->
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile/assets/thalovant-logo-dark.png">
